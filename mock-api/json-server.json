@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "host": "localhost",
+  "routes": "routes.json"
+}
